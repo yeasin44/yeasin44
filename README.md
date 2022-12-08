@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/D5616AQF2p75Ez4e8Ig/profile-displaybackgroundimage-shrink_350_1400/0/1670507150636?e=1675900800&v=beta&t=RlsuRjj4Iqjzz2MLhsHgbhwzK5dq3OqLFqOMrgV7EXA"/>
+<img src="https://media-exp1.licdn.com/dms/image/D5616AQHa-8Bk5I3hsw/profile-displaybackgroundimage-shrink_350_1400/0/1670521690187?e=1675900800&v=beta&t=IVksXaTij1Sdvp2jh-wbaYvhdSynrExFw-ToLZ8wb-c"/>
 
 <h1 align="center">Hi, I'm Mohammad Yeasin Chy</h1>
 <h3 align="center">A passionate Web developer</h3>
